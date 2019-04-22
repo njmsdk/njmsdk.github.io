@@ -87,12 +87,12 @@ nav li:before {
   content: none;
 }
 
-nav li:hover, nav li:focus-within {
+nav li:hover {
   background: red;
   cursor: pointer;
 }
 
-nav li:focus-within a {
+nav li a {
   outline: none;
 }
 
@@ -118,7 +118,6 @@ nav ul li ul span {
 }
 
 nav ul li:hover > ul,
-nav ul li:focus-within > ul,
 nav ul li ul:hover,
 nav ul li ul:focus {
   visibility: visible;
