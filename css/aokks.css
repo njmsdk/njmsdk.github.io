@@ -1,0 +1,135 @@
+body {
+  background-image: url(/img/logoaokks-gray.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 20px 70px;
+  padding: 0px 100px;
+}
+
+main {
+  padding-top: 30px;
+  font-size: 1em;
+  text-align: justify;
+  line-height: 1.5em;
+}
+
+main img {
+  float: right;
+  clear: both;
+  margin: 20px;
+}
+
+#title {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bolder;
+  font-variant: small-caps;
+  padding: 0px 20px;
+}
+
+#subtitle {
+  text-align: center;
+  font-size: 1.4em;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 1.2em;
+  margin-left: -20px;
+}
+
+#cc-by {
+  text-align: center;
+  font-size:0.8em;
+  padding: 20px;
+}
+
+li {
+  list-style-type: none;
+}
+
+li:before {
+  content: "\2023\00A0";
+}
+
+th {
+  color: red;
+  padding: 0px 15px;
+}
+
+td {
+  padding: 0px 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav ul {
+  margin: 0;
+  padding-left: 0;
+}
+
+nav li {
+  color: white;
+  background: black;
+  display: block;
+  float: left;
+  padding: 0.5em 1rem;
+  position: relative;
+  text-decoration: none;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+
+nav li:before {
+  content: none;
+}
+
+nav li:hover, nav li:focus-within {
+  background: red;
+  cursor: pointer;
+}
+
+nav li:focus-within a {
+  outline: none;
+}
+
+nav ul li ul {
+  background: black;
+  visibility: hidden;
+  opacity: 0;
+  min-width: 12rem;
+  position: absolute;
+  margin-top: 0.5rem;
+  left: 0;
+  display: none;
+}
+
+nav ul li ul span {
+  background: red;
+  padding: 0.25em 1rem;
+  display: block;
+  clear: both;
+  width: 100%;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+
+nav ul li:hover > ul,
+nav ul li:focus-within > ul,
+nav ul li ul:hover,
+nav ul li ul:focus {
+  visibility: visible;
+  opacity: 1;
+  display: block
+}
+
+nav ul li ul li {
+  font-variant: normal;
+  font-weight: normal;
+  clear: both;
+  width: 100%;
+}
+
