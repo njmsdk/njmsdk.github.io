@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kobudo on Association Okinawa Karaté Kobudo Suisse</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Kobudo on Association Okinawa Karaté Kobudo Suisse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 19 Apr 2019 10:58:52 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.aokks.org/kobudo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Apr 2019 10:58:52 +0200</lastBuildDate><atom:link href="https://www.aokks.org/kobudo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les origines du Kobudo</title>
       <link>https://www.aokks.org/kobudo/les_origines_du_kobudo/</link>
@@ -57,7 +53,7 @@ Plusieurs générations La généalogie suivante représente la transmission à 
       <pubDate>Fri, 19 Apr 2019 10:58:52 +0200</pubDate>
       
       <guid>https://www.aokks.org/kobudo/dojo/chablais/</guid>
-      <description> Mercredi    Heure Cours     19h00 à 20h10 Dès 14 ans    </description>
+      <description>Mercredi    Heure Cours     19h00 à 20h10 Dès 14 ans    </description>
     </item>
     
     <item>
@@ -66,7 +62,7 @@ Plusieurs générations La généalogie suivante représente la transmission à 
       <pubDate>Fri, 19 Apr 2019 10:58:52 +0200</pubDate>
       
       <guid>https://www.aokks.org/kobudo/dojo/la_tour_de_peilz/</guid>
-      <description> Lundi    Heure Cours     18h15 à 19h30 Dès 16 ans    Jeudi    Heure Cours     20h30 à 21h30 Dès 16 ans    </description>
+      <description>Lundi    Heure Cours     18h15 à 19h30 Dès 16 ans    Jeudi    Heure Cours     20h30 à 21h30 Dès 16 ans    </description>
     </item>
     
     <item>
@@ -75,7 +71,7 @@ Plusieurs générations La généalogie suivante représente la transmission à 
       <pubDate>Fri, 19 Apr 2019 10:58:52 +0200</pubDate>
       
       <guid>https://www.aokks.org/kobudo/dojo/saviese/</guid>
-      <description> Mardi    Heure Cours     19h30 à 21h00 Dès 16 ans    </description>
+      <description>Mardi    Heure Cours     19h30 à 21h00 Dès 16 ans    </description>
     </item>
     
   </channel>
